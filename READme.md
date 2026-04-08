@@ -52,7 +52,7 @@ This is a desktop-based Billing System application built using Python and Tkinte
 
 ## 👩‍💻 Author
 
-* Your Name
+Suhani Dhawan
 
 ## ⭐ Support
 
